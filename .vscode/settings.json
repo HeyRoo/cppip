@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "clocale": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "variant": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "numeric": "cpp"
+    }
+}
